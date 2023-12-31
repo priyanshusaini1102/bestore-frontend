@@ -4,7 +4,7 @@ import { Spacer, Button, Card } from "@nextui-org/react";
 
 const AboutPage = () => {
   const handleLike = () => {
-    console.log("handle like");
+    console.log("handle likeeeeee");
   };
 
   return (
